@@ -1,5 +1,5 @@
 // apps/server/src/db/memberService.ts
-import { MemberProfile } from "../../../packages/types";
+import { MemberProfile } from "@cafe-aurora/types";
 
 export abstract class MemberService {
   abstract initialized: boolean;

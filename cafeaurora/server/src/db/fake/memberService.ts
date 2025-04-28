@@ -1,5 +1,5 @@
 // apps/server/src/db/fake/memberService.ts
-import { MemberProfile } from "../../../../packages/types";
+import { MemberProfile } from "@cafe-aurora/types";
 import { MemberService } from "../memberService";
 
 const MEMBERS: Record<
